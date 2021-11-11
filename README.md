@@ -1,32 +1,17 @@
-## Hi there ! <img src="https://raw.githubusercontent.com/LeonMoreno/LeonMoreno/main/img/Hi.gif" width="30px">
+## Hi there ! <img src="https://raw.githubusercontent.com/LeonMoreno/LeonMoreno/master/img/Hi.gif" width="30px">
 
-### Thanks for visiting! 🤙
+### Thanks for visiting! 😄
 
-This is the place where I opensource stuff and try not to break many things 🤣
+I'm an avid self-learner and passionate about education. I'm currently a _cadet_  (software engineering student) at [École 42 Québec](https://42quebec.com).
 
-I'm continuously self-learnerning and I'm currently software engineering student at [42 Québec](https://42quebec.com) <img src="https://raw.githubusercontent.com/LeonMoreno/LeonMoreno/main/img/42.jpg" width="30px">
+I am a cheerful, enthusiastic, committed, enterprising man, passionate about life. My Dharma: Connecting People.
 
-I am also a technology enthusiast and gadget freak. Always up to date on different kind of devices and learning something new.
-My current goal is to deepen my knowledge in software engineering 💻 especially in cybersecurity and AI 🤖.
+From a young age I learned that entrepreneurship is the Way. Overcoming fears, limiting beliefs, and learning from each challenge has shaped me as a Man of Vision, with leadership skills, assertive communication, adaptation to change, and seeing the opportunities in each Obstacle. I learn every day that **If you want to change the fruits, you will first have to change the roots**.
 
-Here are some of my achievements and interests:
-
-* 🎓  Higher Technician in Production of Audiovisual Projects and Shows
-* 🎥  worked as local news camera operator
-* ✏️  designed a Wordpress webpage and marketing plan for a natural cosmetics brand
-* 🆘  worked as beach lifeguard for 6 years where I acquired a lot of teamwork experience
-* 🏄‍♂️  surfing and bodyboarding
-* 🌎  languages, travelling and new cultures
-* 🐾  animals
-* 🎶  EDM
-* 🎬  Hasta el último hombre
-* 🕮  Agatha Cristie's The murder of Roger Ackroyd
-* 💙  I'm blue, da ba dee da ba daa
-
-... always learning something new 🤓
+... Continuous learning 🤓
 
 	` If you are 42 cadet: feel free to reach me on Slack -> @lmoreno `
 
-
+<img src="https://raw.githubusercontent.com/LeonMoreno/LeonMoreno/master/img/leo.gif" width="30px">
 
 	
