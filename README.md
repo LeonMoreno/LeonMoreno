@@ -13,3 +13,15 @@ From a young age I learned that entrepreneurship is the Way. Overcoming fears, l
 	` If you are 42 cadet: feel free to reach me on Slack -> @lmoreno `
 
 [<img src="https://raw.githubusercontent.com/LeonMoreno/LeonMoreno/master/img/leo.png" width="250px">](https://42quebec.com)
+
+social networks
+
+<a href="https://twitter.com/LeonMoreno_me">
+  <img align="left" alt="Leonardo Moreno | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/LeonMoreno/">
+  <img align="left" alt=“Leo’s LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br />
+
+---
