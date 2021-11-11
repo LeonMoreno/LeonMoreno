@@ -1,6 +1,4 @@
-## Hi there ! <img src="https://raw.githubusercontent.com/LeonMoreno/LeonMoreno/master/img/Hi.gif" width="30px">
-
-### Thanks for visiting! 😄
+## Hi World! 👋
 
 I'm an avid self-learner and passionate about education. I'm currently a _cadet_  (software engineering student) at [École 42 Québec](https://42quebec.com).
 
@@ -14,14 +12,15 @@ From a young age I learned that entrepreneurship is the Way. Overcoming fears, l
 
 [<img src="https://raw.githubusercontent.com/LeonMoreno/LeonMoreno/master/img/leo.png" width="250px">](https://42quebec.com)
 
-social networks
+## Connect with me:
 
-<a href="https://twitter.com/LeonMoreno_me">
-  <img align="left" alt="Leonardo Moreno | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/LeonMoreno/">
-  <img align="left" alt=“Leo’s LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br />
+[<img src="https://img.shields.io/twitter/url?color=blue&label=Linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FLeonMoreno%2F"/>](https://www.linkedin.com/in/LeonMoreno/) [<img src="https://img.shields.io/twitter/url?label=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FLeonMoreno_me"/>](https://twitter.com/LeonMoreno_me)
+
+
+
+
+
+
+
 
 ---
