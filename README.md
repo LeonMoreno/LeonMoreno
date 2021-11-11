@@ -12,6 +12,6 @@ From a young age I learned that entrepreneurship is the Way. Overcoming fears, l
 
 	` If you are 42 cadet: feel free to reach me on Slack -> @lmoreno `
 
-<img src="https://raw.githubusercontent.com/LeonMoreno/LeonMoreno/master/img/leo.gif" width="30px">
+<img src="https://raw.githubusercontent.com/LeonMoreno/LeonMoreno/master/img/leo.png" width="250px">
 
 	
