@@ -1,4 +1,4 @@
-## Hi World! 👋
+## Hi World!
 
 I'm an avid self-learner and passionate about education. I'm currently a _cadet_  (software engineering student) at [École 42 Québec](https://42quebec.com).
 
@@ -9,6 +9,8 @@ From a young age I learned that entrepreneurship is the Way. Overcoming fears, l
 ... Continuous learning 🤓
 
 	` If you are a cadet 42 student: feel free to reach me on Slack -> @lmoreno `
+
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/lmoreno)](https://42quebec.com)
 
 [<img src="https://raw.githubusercontent.com/LeonMoreno/LeonMoreno/master/img/leo.png" width="250px">](https://42quebec.com)
 
