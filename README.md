@@ -1,4 +1,4 @@
-## Hi World!
+## Hello !
 
 I'm an avid self-learner and passionate about education. I'm currently a _cadet_  (software engineering student) at [École 42 Québec](https://42quebec.com).
 
