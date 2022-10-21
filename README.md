@@ -10,7 +10,7 @@ From a young age I learned that entrepreneurship is the Way. Overcoming fears, l
 
 	` If you are a cadet 42 student: feel free to reach me on Slack -> @lmoreno `
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/lmoreno)](https://42quebec.com)
+[![lmoreno's 42 stats](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/stats?cursusId=21&coalitionId=249)](https://github.com/JaeSeoKim/badge42)
 
 [<img src="https://raw.githubusercontent.com/LeonMoreno/LeonMoreno/master/img/leo.png" width="250px">](https://42quebec.com)
 
