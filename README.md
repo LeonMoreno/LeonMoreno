@@ -10,8 +10,9 @@ From a young age I learned that entrepreneurship is the Way. Overcoming fears, l
 
 [<img src="https://raw.githubusercontent.com/LeonMoreno/LeonMoreno/master/img/leo.png" width="250px">](https://42quebec.com)
 
-[![lmoreno's 42 stats](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/stats?cursusId=21&coalitionId=249)](https://github.com/JaeSeoKim/badge42)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonMoreno&layout=compact)](https://github.com/LeonMoreno/github-readme-stats)
 
+[![lmoreno's 42 stats](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/stats?cursusId=21&coalitionId=249)](https://github.com/JaeSeoKim/badge42)
 
 
 ## Connect with me:
