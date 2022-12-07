@@ -8,7 +8,7 @@ From a young age I learned that entrepreneurship is the Way. Overcoming fears, l
 
 ... Continuous learning 🤓
 
-[<img src="https://raw.githubusercontent.com/LeonMoreno/LeonMoreno/master/img/leo.png" width="250px">](https://42quebec.com)
+[<img src="https://raw.githubusercontent.com/LeonMoreno/LeonMoreno/master/img/leo_m.png" width="250px">](https://42quebec.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonMoreno&layout=compact)](https://github.com/LeonMoreno)
 
