@@ -1,4 +1,4 @@
-[![Leo Moreno](img/banner.jpeg)](https://www.linkedin.com/in/leonmoreno/)
+[![Leo Moreno](img/banner.jpg)](https://www.linkedin.com/in/leonmoreno/)
 
 I'm an avid self-learner and passionate about education. I'm currently a software engineering student at [École 42 Québec](https://42quebec.com).
 
