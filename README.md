@@ -1,10 +1,8 @@
 [![Leo Moreno](img/banner.jpg)](https://www.linkedin.com/in/leonmoreno/)
 
-I'm an avid self-learner and passionate about education. I'm currently a Software developer student at [École 42 Québec](https://42quebec.com).
+I am an enthusiastic self-learner deeply passionate about education and technology.
 
-I am a cheerful, enthusiastic, committed, enterprising man, passionate about life.
-
-From a young age I learned that entrepreneurship is the Way. Overcoming fears, limiting beliefs, and learning from each challenge has shaped me as a Man of Vision, with leadership skills, assertive communication, adaptation to change, and seeing the opportunities in each Obstacle. I learn every day that **If you want to change the fruits, you will first have to change the roots**.
+Since a young age, I've embraced the ethos of entrepreneurship as the path forward. Through overcoming fears, challenging limiting beliefs, and learning from every obstacle, I've evolved into a visionary individual. This journey has equipped me with leadership acumen, effective communication skills, adaptability to change, and a keen eye for opportunities within challenges. Every day, I reinforce the belief that **If you want to change the fruits, you will first have to change the roots**
 
 ... Continuous learning 🤓
 
@@ -12,6 +10,8 @@ From a young age I learned that entrepreneurship is the Way. Overcoming fears, l
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonMoreno&layout=compact)](https://github.com/LeonMoreno)
 
-[![lmoreno's 42 stats](https://badge42.vercel.app/api/v2/cl9iw50pk00410gjruy6yjcvt/stats?cursusId=21&coalitionId=249)](https://github.com/JaeSeoKim/badge42)
+---
+<!--START_SECTION:activity-->
+
 
 ---
