@@ -12,8 +12,8 @@ Since a young age, I've embraced the ethos of entrepreneurship as the path forwa
 
 ---
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/LeonMoreno/ft_transcendence/pull/26) in [LeonMoreno/ft_transcendence](https://github.com/LeonMoreno/ft_transcendence)
-2. 🎉 Merged PR [#19](https://github.com/LeonMoreno/ft_transcendence/pull/19) in [LeonMoreno/ft_transcendence](https://github.com/LeonMoreno/ft_transcendence)
+1. 🎉 Merged PR [#1](https://github.com/LeonMoreno/leoweb/pull/1) in [LeonMoreno/leoweb](https://github.com/LeonMoreno/leoweb)
+2. 💪 Opened PR [#1](https://github.com/LeonMoreno/leoweb/pull/1) in [LeonMoreno/leoweb](https://github.com/LeonMoreno/leoweb)
 <!--END_SECTION:activity-->
 
 
